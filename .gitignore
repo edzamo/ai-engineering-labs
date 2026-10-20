@@ -1,0 +1,21 @@
+# Claves: jamás en git
+.env
+.env.*
+!.env.example
+
+# Java / Maven
+target/
+*.class
+
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+.venv/
+
+# IDE / SO
+.idea/
+.vscode/
+.DS_Store
