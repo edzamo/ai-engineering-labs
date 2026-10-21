@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: w01-primer-agente
